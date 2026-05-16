@@ -1,6 +1,8 @@
+
 <!--
+
 <p align=center>
-<img src="./images/creative-ideas.png" alt="" height= 250 />       
+<img src="./images/mac-sticker.png" alt="" height= 200 />       
 </p>
 
 
@@ -16,7 +18,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height=45  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=45 />                 
 </p>
-
 
 **amandamats/amandamats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
