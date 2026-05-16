@@ -1,6 +1,9 @@
-## Hi there 👋
-
 <!--
+<p align=center>
+<img src="./images/creative-ideas.png" alt="" height= 250 />       
+</p>
+
+
 <p align= center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=45 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=45  />
@@ -11,10 +14,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height=45 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height=45  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" height=45  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=45 />
-          
-                    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=45 />                 
 </p>
+
 
 **amandamats/amandamats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
