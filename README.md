@@ -4,6 +4,8 @@
 <img src="./images/mac-sticker.png" alt="" height= 200 />       
 </p>
 
+<img src="./images/lightpink-books.png" height="20" style="vertical-align: middle;" /> &nbsp; análise e desenvolvimento de sistemas @  unisinos<br />
+
 ## <img src="./images/bow.png" height="30" style="vertical-align: middle;" /> &nbsp; Skills
 <p align= center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=45 />
