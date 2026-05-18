@@ -1,11 +1,10 @@
-
 <!--
 
 <p align=center>
 <img src="./images/mac-sticker.png" alt="" height= 200 />       
 </p>
 
-
+## <img src="./images/bow.png" height="30" style="vertical-align: middle;" /> &nbsp; Skills
 <p align= center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=45 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=45  />
