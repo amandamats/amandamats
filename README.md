@@ -1,4 +1,4 @@
-<!--
+
 <p align=center>
 <img src="./images/mac-sticker.png" alt="" height= 200 />       
 </p>
@@ -20,9 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height=45 />                 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMANDAMATS&layout=compact&theme=tokyonight) 
-
-
+<!--
 **amandamats/amandamats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
